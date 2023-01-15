@@ -1,0 +1,142 @@
+MIC,Code,Description
+1|Consumer Products|Sector,,
+1.1|Agriculture|Industry,1.1,Agriculture
+1.1.1|Agricultural Crop Production|Sub-Industry,,
+1.1.2|Agricultural Livestock|Sub-Industry,,
+1.1.3|Fishing & Gaming|Sub-Industry,,
+1.2|Food & Beverage|Industry,1.2,Food & Beverage
+1.2.1|Food|Sub-Industry,,
+1.2.2|Beverages|Sub-Industry,,
+1.3|Tobacco|Industry,1.3,Tobacco
+1.3.1|Tobacco Products|Sub-Industry,,
+1.4|Textiles & Apparel|Industry,1.4,Textiles & Apparel
+1.4.1|Textiles|Sub-Industry,,
+1.4.2|Apparel,,
+1.5|Appliances & Electronics|Industry,1.5,Appliances & Electronics
+1.5.1|Household Appliances,,
+1.6|Consumer Goods|Industry,1.6,Consumer Goods
+1.6.1|Leisure Equipment|Sub-Industry,,
+1.6.2|Furniture|Sub-Industry,,
+1.6.3|Miscellaneous Consumer Goods|Sub-Industry,,
+1.7|Household & Personal Products|Industry,1.7,Household & Personal Product
+1.7.1|Household & Personal Products|Sub-Industry,,
+1.8|Autos & Auto Parts|Industry,1.8,Autos & Auto Parts
+1.8.1|Autos- Manufacturing|Sub-Industry,,
+1.8.2|Auto Parts|Sub-Industry,,
+2|Services|Sector,,
+2.1|Retail|Industry,2.1,Retail
+2.1.1|Retail - General Merchandise/Department Stores|Sub-Industry,,
+2.1.2|Retail - Food & Beverage,,
+2.1.3|Retail - Specialty|Sub-Industry,,
+2.1.4|Retail - Automotive|Sub-Industry,,
+2.1.5|Retail - Apparel and Accessories|Sub-Industry,,
+2.1.6|Retail - Furniture & Home Furnishings|Sub-Industry,,
+2.1.7|Retail - Appliances and Electronics|Sub-Industry,,
+2.1.8|Retail - Hardware & Home Improvement|Sub-Industry,,
+2.2|Consumer Services|Industry,2.2,Consumer Services
+2.2.1|Hotels,,
+2.2.2|Educational Services|Sub-Industry,,
+2.2.3|Miscellaneous Consumer Services|Sub-Industry,,
+2.2.4|Sporting & Recreational|Sub-Industry,,
+2.2.5|Builders|Sub-Industry,,
+2.3|Media|Industry,2.3,Media|Industry
+2.3.1|Radio & Television|Sub-Industry,,
+2.3.2|Entertainment|Sub-Industry,,
+2.3.3|Publishing|Sub-Industry,,
+2.3.4|Advertising|Sub-Industry,,
+3|Utilities|Sector,,
+3.1|Electric Utilities|Industry,3.1,Electric Utilities
+3.1.1|Electric Utilities|Sub-Industry,,
+3.2|Water Utilities|Industry,3.2,Water Utilities
+3.2.1|Water Utilities|Sub-Industry,,
+3.3|Gas Utilities|Industry,3.3,Gas Utilities
+3.3.1|Gas Utilities|Sub-Industry,,
+4|Health Care|Sector,,
+4.1|Pharmaceuticals & Biotechnology|Industry,4.1,Pharmaceuticals & Biotechnology
+4.1.1|Pharmaceuticals|Sub-Industry,,
+4.1.2|Biotechnology|Sub-Industry,,
+4.2|Health Care Services|Industry,4.2,Health Care Services
+4.2.1|Hospitals & Health Care Facilities|Sub-Industry,,
+4.2.2|Diagnostic & Health Related Services|Sub-Industry,,
+4.3|Health Care Equipment|Industry,4.3,Health Care Equipment
+4.3.1|Medical Instruments & Equipment|Sub-Industry,,
+5|Financials|Sector,,
+5.1|Banking & Savings|Industry,5.1,Banking & Savings
+5.1.1|Banking|Sub-Industry,,
+5.2|Insurance|Industry,5.2,Insurance
+5.2.1|General Insurance|Sub-Industry,,
+5.2.2|Life & Health|Sub-Industry,,
+5.2.3|Brokers & Intermediaries|Sub-Industry,,
+5.3|Real Estate|Industry,5.3,Real Estate
+5.3.1|REITs|Sub-Industry,,
+5.3.2|Property,,
+5.4|Credit & Lending|Industry,5.4,Credit & Lending
+5.4.1|Credit & Lending|Sub-Industry,,
+5.5|Investments & Brokers|Industry,5.5,Investments & Brokers
+5.5.1|Finance Intermediaries & Services|Sub-Industry,,
+5.5.2|Wealth Management|Sub-Industry,,
+5.5.3|Venture Capital|Sub-Industry,,
+5.6|Miscellaneous|Industry,5.6,Miscellaneous Industry
+5.6.1|Oil Royalty Traders|Sub-Industry,,
+5.6.2|Patent Owners & Lessors|Sub-Industry,,
+5.6.3|Holding and other Investment Offices|Sub-Industry,,
+5.6.4|ETFs|Sub-Industry,,
+6|IT & Communications|Sector,,
+6.1|Communications|Industry,6.1,Communications
+6.1.1|Manufacturing|Sub-Industry,,
+6.1.2|Services|Sub-Industry,,
+6.2|IT Hardware|Industry,6.2,IT Hardware
+6.2.1|Computer Hardware & Equipment|Sub-Industry,,
+6.2.2|Peripherals|Sub-Industry,,
+6.2.3|Electronic Instruments & Related Products|Sub-Industry,,
+6.2.4|Semiconductors|Sub-Industry,,
+6.3|IT Services & Software|Industry,6.3,IT Services & Software
+6.3.1|IT Services|Sub-Industry,,
+6.3.2|Internet & Software|Sub-Industry,,
+7|Industrials|Sector,,
+7.1|Aerospace & Defense|Industry,7.1,Aerospace & Defense
+7.1.1|Aerospace|Sub-Industry,,
+7.1.2|Defense|Sub-Industry,,
+7.2|Machinery|Industry,7.2,Machinery
+7.2.1|Industrial Machinery & Equipment|Sub-Industry,,
+7.3|Electrical Equipment|Industry,7.3,Electrical Equipment
+7.3.1|Electrical Equipment|Sub-Industry,,
+7.4|Transport|Industry,7.4,Transport
+7.4.1|Trucking|Sub-Industry,,
+7.4.2|Shipping|Sub-Industry,,
+7.4.3|Rail|Sub-Industry,,
+7.4.4|Airlines/Air Freight|Sub-Industry,,
+7.4.5|Miscellaneous Transportation Services|Sub-Industry,,
+7.5|Commercial Services & Supplies|Industry,7.5,Commercial Services & Supplies
+7.5.1|Office Equipment & Furniture|Sub-Industry,,
+7.5.2|Business Services|Sub-Industry,,
+7.5.3|Sanitation Services|Sub-Industry,,
+7.5.4|Construction Services|Sub-Industry,,
+7.5.5|Printing|Sub-Industry,,
+8|Materials|Sector,,
+8.1|Paper & Forest Products|Industry,8.1,Paper & Forest Products
+8.1.1|Forestry|Sub-Industry,,
+8.1.2|Paper & Forest Products|Sub-Industry,,
+8.1.3|Containers & Packaging|Sub-Industry,,
+8.2|Metals & Mining|Industry,8.2,Metals & Mining
+8.2.1|Precious Metals|Sub-Industry,,
+8.2.2|Non-Precious Metals|Sub-Industry,,
+8.2.3|Metal Products|Sub-Industry,,
+8.2.4|Mining|Sub-Industry,,
+8.3|Chemicals|Industry,8.3,Chemicals
+8.3.1|Diversified Chemicals|Sub-Industry,,
+8.3.2|Specialty Chemicals|Sub-Industry,,
+8.3.3|Agricultural Chemicals|Sub-Industry,,
+8.4|Synthetic Materials|Industry,8.4,Synthetic Materials
+8.4.1|Rubber Products|Sub-Industry,,
+8.4.2|Plastics|Sub-Industry,,
+8.5|Construction Materials|Industry,8.5,Construction Materials
+8.5.1|Construction Materials|Sub-Industry,,
+9|Energy|Sector,,
+9.1|Oil & Gas|Industry,9.1,Oil & Gas
+9.1.1|Production & Extraction|Sub-Industry,,
+9.1.2|Refining & Marketing|Sub-Industry,,
+9.1.3|Equipment & Services|Sub-Industry,,
+0|Miscellaneous Sector|Sector,,
+0.0|Miscellaneous Industry|Industry,0,Miscellaneous 
+0.0.0|Miscellaneous Sub-Industry|Sub-Industry,,
