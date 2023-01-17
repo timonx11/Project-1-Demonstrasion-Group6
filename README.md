@@ -7,16 +7,16 @@ This directory contains our initial project proposal as well as the slide deck w
 
 The subdirectory 'Starter code' contains the four parts to our analysis. They should be read in numerical order:
 
-# Section 1 
+## Section 1 
 Provides an preliminary analysis of the initial dataset 'employers_clean.csv' and its key characteristics
  
-# Section 2
+## Section 2
 Provides a analysis of some financial metrics related to the companies in employers_clean.csv, using the Yfinance library. Section 2 requires the Yfinance library v0.2.4 to retrieve financial data. Install yfinance with command 'pip install yfinance==0.2.4' on command line.
  
-# Section 3 
+## Section 3 
 Provides further financial analysis of employers_clean.csv using the NASDAQ API to compare ranked companies to their industry peers. The API call requires nasdaq-data-link library. Install nasdaq library with command ‘pip install nasdaq-data-link’ on command line. 
  
-# Section 4
+## Section 4
 Provides analysis of some external factors to related to a company's country of headquarters, that may influence success in the initial rankings. For example, union participation, average wage.
  
 All flatfile datasets used are contained in the 'resources' sub-directory.
