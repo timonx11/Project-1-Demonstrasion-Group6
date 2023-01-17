@@ -11,7 +11,7 @@ Group 6 Project1 GitHub Repo
  
  #Section 2 provides a analysis of some financial metrics related to the companies in employers_clean.csv, using the Yfinance library. Section 2 requires the Yfinance library v0.2.4 to retrieve financial data. Install yfinance with comment 'pip install yfinance==0.2.4'
  
- #Section 3 provides further financial analysis of employers_clean.csv using the NASDAQ API to compare ranked companies to their industry peers. The API call requires nasdaq-data-link library. Install nasdaq library with command ‘pip install nasdaq-data-link’ on shelll. 
+ #Section 3 provides further financial analysis of employers_clean.csv using the NASDAQ API to compare ranked companies to their industry peers. The API call requires nasdaq-data-link library. Install nasdaq library with command ‘pip install nasdaq-data-link’ on command line. 
  
  #Section 4 provides analysis of some external factors to related to a company's country of headquarters, that may influence success in the initial rankings. For example, union participation, average wage.
  
