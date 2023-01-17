@@ -9,7 +9,7 @@ Group 6 Project1 GitHub Repo
 
  #Section 1 provides an preliminary analysis of the initial dataset 'employers_clean.csv' and its key characteristics
  
- #Section 2 provides a analysis of some financial metrics related to the companies in employers_clean.csv, using the Yfinance library. Section 2 requires the Yfinance library v0.2.4 to retrieve financial data. Install yfinance with comment 'pip install yfinance==0.2.4'
+ #Section 2 provides a analysis of some financial metrics related to the companies in employers_clean.csv, using the Yfinance library. Section 2 requires the Yfinance library v0.2.4 to retrieve financial data. Install yfinance with comment 'pip install yfinance==0.2.4' on command line.
  
  #Section 3 provides further financial analysis of employers_clean.csv using the NASDAQ API to compare ranked companies to their industry peers. The API call requires nasdaq-data-link library. Install nasdaq library with command ‘pip install nasdaq-data-link’ on command line. 
  
